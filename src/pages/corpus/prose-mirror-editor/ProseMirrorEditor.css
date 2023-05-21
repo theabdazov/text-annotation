@@ -1,0 +1,14 @@
+.editor-block {
+    display: inline;
+}
+
+.ent {
+    display: inline;
+    cursor: pointer;
+}
+
+.ProseMirror {
+    height: 800px;
+    background-color: #dcdcdc;
+    font-size: 30px;
+}

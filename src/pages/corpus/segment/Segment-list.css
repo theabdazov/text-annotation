@@ -1,0 +1,26 @@
+.nav-item {
+    background-color: #f9f9f9;
+    padding: 8px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    margin-bottom: 10px;
+    position: relative;
+    padding-right: 20px;
+}
+
+.nav-item:hover {
+    background-color: #e2e2e2 !important;
+}
+
+.nav-item.selected {
+    background-color: #dcdada !important;
+}
+
+.clear {
+    position: absolute;
+    right: 5px;
+    width: 10px;
+    top: 9px;
+}
