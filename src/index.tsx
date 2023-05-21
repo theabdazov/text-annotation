@@ -22,7 +22,7 @@ const router = createBrowserRouter([
             //     element: <Home />
             // },
             {
-                path: "/",
+                path: "text-annotation/",
                 element: <Corpus />
             }
         ]
